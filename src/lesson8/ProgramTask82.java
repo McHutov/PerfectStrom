@@ -1,6 +1,4 @@
-package Lesson8;
-
-import java.util.Scanner;
+package lesson8;
 
 public class ProgramTask82
 {
