@@ -64,7 +64,7 @@ public class ProgramTask81
 
     static void method4(int a, int b, int c)
     {
-        if(a+b > c || b+c > a || a+c > b)
+        if(a+b > c && b+c > a && a+c > b)
         {
             System.out.println("Possible");
         }

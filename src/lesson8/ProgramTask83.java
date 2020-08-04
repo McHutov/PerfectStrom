@@ -4,7 +4,7 @@ public class ProgramTask83
 {
     public static void main(String args[])
     {
-        int arr[] = {1,2,3,4,5};
+        int []arr = {1,2,3,4,5};
         method(1);
         method(1,1);
         method(1.0,1);

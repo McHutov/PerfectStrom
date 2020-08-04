@@ -28,7 +28,7 @@ public class ProgramTask82
     {
         if(method1(a))
         {
-            return "Numer is greater then zero";
+            return "Number is greater then zero";
         }
         else
         {
@@ -38,6 +38,6 @@ public class ProgramTask82
 
     static void method3(int x)
     {
-        System.out.println(method1(x)+ " and equal to " + x);
+        System.out.println(method2(x)+ " and equal to " + x);
     }
 }
