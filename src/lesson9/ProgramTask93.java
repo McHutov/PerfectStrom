@@ -8,16 +8,14 @@ public class ProgramTask93
     {
         Scanner s = new Scanner(System.in);
         String str;
-        String nstr;
+        String nstr = "";
 
         for(int i = 0; i < 2; i++)
         {
             System.out.println("Enter any word that have even number quantity letter: ");
             str = s.nextLine();
-            nstr = str.substring(0 , str.length() / 2);
-
-            System.out.println(nstr);
+            nstr += str.substring(0 , str.length() / 2);
         }
-
+        System.out.print(nstr);
     }
 }
