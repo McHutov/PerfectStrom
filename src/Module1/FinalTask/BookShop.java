@@ -314,7 +314,7 @@ public class BookShop {
 
                 break;
             default:
-                System.out.println("This command doesn't exist, try again" );
+                System.out.println("This command does not exist, try again" );
 
                 break;
         }
