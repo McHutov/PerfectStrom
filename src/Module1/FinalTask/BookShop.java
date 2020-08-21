@@ -38,7 +38,7 @@ public class BookShop {
     {
         System.out.println("\t\tMenu");
         System.out.print("1.Add book\n" +
-                "2.Delet book\n" +
+                "2.Delete book\n" +
                 "3.Change the name of the book\n" +
                 "4.Show all books\n" +
                 "5.Look for a book\n" +

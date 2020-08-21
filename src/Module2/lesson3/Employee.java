@@ -19,7 +19,7 @@ public abstract class Employee {
 
     public void speak()
     {
-        System.out.println("Hi, my name is" + name + " I'm " + age + " years old.");
+        System.out.println("Hi, my name is " + name + " I'm " + age + " years old.");
     }
 
     public abstract void workInfo();

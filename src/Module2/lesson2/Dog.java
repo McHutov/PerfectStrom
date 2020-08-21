@@ -8,9 +8,10 @@ public class Dog
         this.name = name;
     }
 
+
     @Override
     public boolean equals(Object o) {
-        if (this instanceof Dog) return true;
+        if (this == o) return true;
         if (!( this instanceof Dog)) return false;
 
         Dog dog = (Dog) o;
