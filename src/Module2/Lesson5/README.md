@@ -37,6 +37,7 @@
 ####8.What is "git checkout"? How this command can be used?
  
 *"git checkout" - is the command, that uses to move between commits or branches .*
+
 -----------------------------------------------------------------------
 ####9.What is "git push"? "
 
